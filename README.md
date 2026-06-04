@@ -8,7 +8,7 @@
 
 Projeto desenvolvido como atividade de extensão, com o objetivo de criar uma experiência de aprendizagem gamificada para o conteúdo de **Porcentagem e Juros** do Ensino Fundamental II e Médio.
 
-A proposta usa a plataforma **Wordwall** para entregar um quiz de múltipla escolha com 15 questões, divididas em 3 níveis de dificuldade crescente, dentro de uma narrativa de tema mágico: um jovem bruxo que precisa investir suas moedas para conseguir comprar um item raro em uma feira encantada.
+A proposta usa a plataforma **Wordwall** para entregar um quiz de múltipla escolha com 15 questões, divididas em 3 níveis de dificuldade crescente, dentro de uma narrativa.
 
 ---
 
