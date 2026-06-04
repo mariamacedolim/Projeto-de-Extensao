@@ -16,8 +16,9 @@ A proposta usa a plataforma **Wordwall** para entregar um quiz de múltipla esco
 
 | Arquivo | Descrição |
 |---|---|
-| `Apostila_Jogo_Magico.docx` | Apostila completa do professor — guia didático de aplicação |
+| `Apostila do Jogo.pdf` | Apostila completa do professor — guia didático de aplicação |
 | `README.md` | Este arquivo |
+| `Projeto de extensão.pdf` | Relatório do que foi feito |
 
 ---
 
@@ -30,7 +31,7 @@ A proposta usa a plataforma **Wordwall** para entregar um quiz de múltipla esco
 - **Tema:** Magia & Fantasia
 - **Custo:** Gratuito
 
-> 🔗 Link do jogo: *em breve*
+> 🔗 Link do jogo: https://wordwall.net/pt/resource/114464700
 
 ---
 
@@ -45,17 +46,6 @@ A apostila foi desenvolvida como **guia do professor** e cobre:
 - Sugestões de avaliação diagnóstica e formativa
 
 ---
-
-## 🗂️ O que foi feito
-
-- [x] Definição do tema e narrativa do jogo
-- [x] Criação das 15 questões com níveis de dificuldade progressiva
-- [x] Configuração do jogo na plataforma Wordwall (tema visual, ranking, quiz)
-- [x] Produção da apostila do professor
-- [ ] Publicação do link do jogo
-
----
-
 ## 👥 Autores
 
 - Arthur Eliodório de Souza
@@ -71,4 +61,4 @@ A apostila foi desenvolvida como **guia do professor** e cobre:
 
 **Universidade Vila Velha — UVV**  
 Curso de Ciência da Computação  
-Projeto de Extensão — 2025
+Projeto de Extensão — 2026
