@@ -32,6 +32,7 @@ A proposta usa a plataforma **Wordwall** para entregar um quiz de múltipla esco
 - **Custo:** Gratuito
 
 > 🔗 Link do jogo: https://wordwall.net/pt/resource/114464700
+> 🔗 Link do tutorial do jogo: https://youtu.be/tyJ9DMKxOGI
 
 ---
 
